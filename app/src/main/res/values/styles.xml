@@ -1,0 +1,17 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">#3F51B5</item>
+        <item name="colorPrimaryDark">#303F9F</item>
+        <item name="colorAccent">#FF4081</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+
+    <style name="welcome" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#FF4081</item>
+        <item name="colorPrimaryDark">#FF4081</item>
+        <item name="colorAccent">#FF4081</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+
+</resources>
